@@ -9,7 +9,7 @@
 :👨‍💻About me:
 - ✈️ From india ;)
 - 💻 I am a cs student working my way out through the world of tech :p
-- 🏕️ Currently camping in the world of webD
+- 🏕️ Currently camping in webD
 - 🤯 Building fun projects to further enchance my knowledge.
 - 🤦 Love to bash my head while leetcoding in my free time :D 
 

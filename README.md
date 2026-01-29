@@ -1,7 +1,7 @@
 This is NIhal.
 I make cool stuff.
 
-I started coding because I was curious about how things worked. Somewhere along the way, that curiosity turned into an obsession with creating software that people genuinely enjoy using. I find the most satisfaction in shipping something real—seeing it in the wild, knowing someone out there is probably using what I built.
+I started coding because I was curious about how things worked. Somewhere along the way, that curiosity turned into an obsession with creating software that people genuinely enjoy using(and are cool ofc). I find the most satisfaction in shipping something real—seeing it in the wild, knowing someone out there is probably using what I built.
 
 Right now, I'm deep into **full-stack development** with a focus on React, TypeScript, Node.js, and Python. I believe good software should feel invisible, it just works, no friction.
 
